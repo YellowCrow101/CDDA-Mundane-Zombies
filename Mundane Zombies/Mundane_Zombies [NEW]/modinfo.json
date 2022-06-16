@@ -4,7 +4,7 @@
     "id": "Mundane_Zombies",
     "name": "Mundane Zombies",
     "authors": [ "Theundyingcode", "daftfad" ],
-    "maintainers": [ "YellowCrow" ],
+    "maintainers": [ "TheKingInYellow" ],
     "description": "Removes all special zombies from the game.",
     "category": "monster_exclude",
     "dependencies": [ "dda" ]
@@ -30,7 +30,7 @@
       "mon_zombie_corrosive",
       "mon_zombie_dancer",
       "mon_zombie_dog_acidic",
-      "mon_zombie_ears"
+      "mon_zombie_ears",
       "mon_zombie_nemesis",
       "mon_zombie_wretched",
       "mon_zombie_regenerating",
