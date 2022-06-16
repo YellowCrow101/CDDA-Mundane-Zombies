@@ -5,7 +5,13 @@ it has fallen woefully out of date. Thus, I decided to pick up where he left of,
 
 TO INSTALL:
 Simply take the MUNDANE_ZOMBIES [NEW] folder, and drop it in your mods folder located at Cataclysm->Data->Mods.
+
 After dropping it in the mod folder, edit the name and remove "[NEW]" for the best possible results with the mod.
+
+In the creation of a new world, the mod will show up under "Blacklist".
+
+For the best results (but not strictly necessary), turn your world's monster evolution down to "0.00".
+
 Be aware that the old version either won't work at all on newer versions, or there will be errors with it.
 
 MAINTAINED BY:
